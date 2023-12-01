@@ -1,0 +1,15 @@
+E:\project\demoApp1\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
+E:\project\demoApp1\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\demoApp1\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+E:\project\demoApp1\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+E:\project\demoApp1\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\project\demoApp1\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+E:\project\demoApp1\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+E:\project\demoApp1\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+E:\project\demoApp1\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+E:\project\demoApp1\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+E:\project\demoApp1\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+E:\project\demoApp1\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+E:\project\demoApp1\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+E:\project\demoApp1\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+E:\project\demoApp1\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll

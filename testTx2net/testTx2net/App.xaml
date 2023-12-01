@@ -1,0 +1,28 @@
+﻿<Application x:Class="testTx2net.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:testTx2net"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style x:Key="headerStyle" TargetType="Label">
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="FontSize" Value="25"/>
+            <Setter Property="Foreground" Value="Blue"/>
+        </Style>
+        <Style x:Key="headerDataGridStyle" TargetType="DataGridColumnHeader">
+            <Setter Property="FontWeight" Value="Bold"/>
+        </Style>
+
+        <Style x:Key="buttonStyle" TargetType="Button">
+            <Setter Property="Foreground" Value="Green"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Margin" Value="0,0,20,0"/>
+        </Style>
+        <ControlTemplate x:Key="buttonControlTemplete" TargetType="Button">
+            <Grid>
+                <Border Background="Gold" BorderBrush="Gold" BorderThickness="1" CornerRadius="80" Width="100px" Height="50px"/>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </Grid>
+        </ControlTemplate>
+    </Application.Resources>
+</Application>

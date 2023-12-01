@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HoangXuanQuy-2021604440-bai3sll/1.0.0": {
+        "runtime": {
+          "HoangXuanQuy-2021604440-bai3sll.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HoangXuanQuy-2021604440-bai3sll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

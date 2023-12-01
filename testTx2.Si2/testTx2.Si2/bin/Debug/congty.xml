@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<congty>
+  <nhanvien manv="nv01">
+    <hoten>Nguyễn Thị Anh</hoten>
+    <tuoi>30</tuoi>
+    <luong>1000</luong>
+    <diachi>
+      <xa>Minh Khai</xa>
+      <huyen>Bắc Từ Liêm</huyen>
+      <tinh>Hà Nội</tinh>
+    </diachi>
+    <dienthoai>09872324245</dienthoai>
+  </nhanvien>
+  <nhanvien manv="nv02">
+    <hoten>Ủa alo ahihi</hoten>
+    <tuoi>307</tuoi>
+    <luong>100089898</luong>
+    <diachi>
+      <xa>jjj</xa>
+      <huyen>kkk</huyen>
+      <tinh>kkk</tinh>
+    </diachi>
+    <dienthoai>8787</dienthoai>
+  </nhanvien>
+  <nhanvien manv="nv03">
+    <hoten>Nguyễn Thị Anh hh</hoten>
+    <tuoi>30</tuoi>
+    <luong>1000</luong>
+    <diachi>
+      <xa>Minh Khai</xa>
+      <huyen>Bắc Từ Liêm</huyen>
+      <tinh>Hà Nội</tinh>
+    </diachi>
+    <dienthoai>09872324245</dienthoai>
+  </nhanvien>
+  <nhanvien manv="nv04">
+    <hoten>Nguyễn Thị Anh hhjhjjhj</hoten>
+    <tuoi>30</tuoi>
+    <luong>1000</luong>
+    <diachi>
+      <xa>Minh Khai</xa>
+      <huyen>Bắc Từ Liêm</huyen>
+      <tinh>Hà Nội</tinh>
+    </diachi>
+    <dienthoai>09872324245</dienthoai>
+  </nhanvien>
+</congty>

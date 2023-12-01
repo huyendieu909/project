@@ -1,0 +1,44 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Label Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="3" HorizontalAlignment="Center" FontSize="25" Foreground="red">Quản lý danh mục phòng ban</Label>
+        <Label Grid.Column="0" Grid.Row="1" Style="{StaticResource labelStyle}">Mã phòng ban</Label>
+        <TextBox Name="tbMaPB" Grid.Column="1" Grid.Row="1" Style="{StaticResource tbMaPBStyle}"></TextBox>
+        <Button Grid.Column="2" Grid.Row="1" Width="100" Height="30" Name="btnHienThi" Click="btnHienThi_Click">Hiển thị</Button>
+        
+        <Label Grid.Column="0" Grid.Row="2" Style="{StaticResource labelStyle}">Tên phòng ban</Label>
+        <TextBox Name="tbTenPB" Grid.Column="1" Grid.Row="2" Style="{StaticResource tbTenPBStyle}"/>
+        <Button Grid.Column="2" Grid.Row="2" Width="100" Height="30" Name="btnThem" Margin="118,3,118,0" VerticalAlignment="Top" Click="btnThem_Click">Thêm</Button>    
+            
+        <Label Grid.Column="0" Grid.Row="3" Style="{StaticResource labelStyle}">Ngày thành lập</Label>
+        <DatePicker Grid.Column="1" Grid.Row="3" Name="ngayThanhLap"></DatePicker>
+        <Label Grid.Column="0" Grid.Row="4" Style="{StaticResource labelStyle}">Danh sách phòng ban: </Label>
+        <DataGrid Name="dtgPhongBan" Grid.Column="0" Grid.Row="5" Grid.ColumnSpan="3" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã phòng ban" Binding="{Binding MaPb}"/>
+                <DataGridTextColumn Header="Tên phòng ban" Binding="{Binding TenPb}"/>
+                <DataGridTextColumn Header="Ngày thành lập" Binding="{Binding NgayThanhLap}"/>
+            </DataGrid.Columns>
+            
+        </DataGrid>
+    </Grid>
+</Window>

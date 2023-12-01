@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>HoangXuanQuy_2021604440_bai3sll</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="..\..\..\k5\tích hợp hệ thống pm\bài 3\sau lên lớp\DanhSachHoSoBenhNhan.xml" Link="DanhSachHoSoBenhNhan.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\k5\tích hợp hệ thống pm\bài 3\sau lên lớp\DanhSachHoSoBenhNhan.xsd" Link="DanhSachHoSoBenhNhan.xsd" />
+    <None Include="..\..\..\k5\tích hợp hệ thống pm\bài 3\sau lên lớp\DanhSachHoSoBenhNhan.xslt" Link="DanhSachHoSoBenhNhan.xslt" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,267 @@
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Bai11_Quy440_P3.exe
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Bai11_Quy440_P3.deps.json
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Bai11_Quy440_P3.runtimeconfig.json
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Bai11_Quy440_P3.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Bai11_Quy440_P3.pdb
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\EntityFramework.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Humanizer.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\Bai11_Quy440_P3.csproj.AssemblyReference.cache
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\App.g.cs
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\Bai11_Quy440_P3_MarkupCompile.cache
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\Bai11_Quy440_P3_MarkupCompile.lref
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\App.baml
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\MainWindow.baml
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\Bai11_Quy440_P3.g.resources
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\Bai11_Quy440_P3.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\Bai11_Quy440_P3.AssemblyInfoInputs.cache
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\Bai11_Quy440_P3.AssemblyInfo.cs
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\Bai11_Quy440_P3.csproj.CoreCompileInputs.cache
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\Bai11_Quy440_P3.csproj.CopyComplete
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\Bai11_Quy440_P3.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\refint\Bai11_Quy440_P3.dll
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\Bai11_Quy440_P3.pdb
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\Bai11_Quy440_P3.genruntimeconfig.cache
+E:\project\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\ref\Bai11_Quy440_P3.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Bai11_Quy440_P3.exe
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Bai11_Quy440_P3.deps.json
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Bai11_Quy440_P3.runtimeconfig.json
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Bai11_Quy440_P3.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Bai11_Quy440_P3.pdb
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\EntityFramework.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Humanizer.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\Bai11_Quy440_P3.csproj.AssemblyReference.cache
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\App.g.cs
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\Bai11_Quy440_P3_MarkupCompile.cache
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\Bai11_Quy440_P3_MarkupCompile.lref
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\App.baml
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\MainWindow.baml
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\Bai11_Quy440_P3.g.resources
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\Bai11_Quy440_P3.GeneratedMSBuildEditorConfig.editorconfig
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\Bai11_Quy440_P3.AssemblyInfoInputs.cache
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\Bai11_Quy440_P3.AssemblyInfo.cs
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\Bai11_Quy440_P3.csproj.CoreCompileInputs.cache
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\Bai11_Quy440_P3.sourcelink.json
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\Bai11_Quy440_P3.csproj.CopyComplete
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\Bai11_Quy440_P3.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\refint\Bai11_Quy440_P3.dll
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\Bai11_Quy440_P3.pdb
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\Bai11_Quy440_P3.genruntimeconfig.cache
+E:\k5\lt .net\bai 11 hkh\Bai11_Quy440_P3\Bai11_Quy440_P3\obj\Debug\net8.0-windows\ref\Bai11_Quy440_P3.dll

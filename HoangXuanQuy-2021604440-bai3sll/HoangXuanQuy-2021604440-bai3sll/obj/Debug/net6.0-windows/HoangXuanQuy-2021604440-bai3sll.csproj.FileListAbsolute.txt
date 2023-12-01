@@ -1,0 +1,16 @@
+E:\project\HoangXuanQuy-2021604440-bai3sll\HoangXuanQuy-2021604440-bai3sll\bin\Debug\net6.0-windows\HoangXuanQuy-2021604440-bai3sll.exe
+E:\project\HoangXuanQuy-2021604440-bai3sll\HoangXuanQuy-2021604440-bai3sll\bin\Debug\net6.0-windows\HoangXuanQuy-2021604440-bai3sll.deps.json
+E:\project\HoangXuanQuy-2021604440-bai3sll\HoangXuanQuy-2021604440-bai3sll\bin\Debug\net6.0-windows\HoangXuanQuy-2021604440-bai3sll.runtimeconfig.json
+E:\project\HoangXuanQuy-2021604440-bai3sll\HoangXuanQuy-2021604440-bai3sll\bin\Debug\net6.0-windows\HoangXuanQuy-2021604440-bai3sll.dll
+E:\project\HoangXuanQuy-2021604440-bai3sll\HoangXuanQuy-2021604440-bai3sll\bin\Debug\net6.0-windows\HoangXuanQuy-2021604440-bai3sll.pdb
+E:\project\HoangXuanQuy-2021604440-bai3sll\HoangXuanQuy-2021604440-bai3sll\obj\Debug\net6.0-windows\HoangXuanQuy_2021604440_bai3sll.Form1.resources
+E:\project\HoangXuanQuy-2021604440-bai3sll\HoangXuanQuy-2021604440-bai3sll\obj\Debug\net6.0-windows\HoangXuanQuy-2021604440-bai3sll.csproj.GenerateResource.cache
+E:\project\HoangXuanQuy-2021604440-bai3sll\HoangXuanQuy-2021604440-bai3sll\obj\Debug\net6.0-windows\HoangXuanQuy-2021604440-bai3sll.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\HoangXuanQuy-2021604440-bai3sll\HoangXuanQuy-2021604440-bai3sll\obj\Debug\net6.0-windows\HoangXuanQuy-2021604440-bai3sll.AssemblyInfoInputs.cache
+E:\project\HoangXuanQuy-2021604440-bai3sll\HoangXuanQuy-2021604440-bai3sll\obj\Debug\net6.0-windows\HoangXuanQuy-2021604440-bai3sll.AssemblyInfo.cs
+E:\project\HoangXuanQuy-2021604440-bai3sll\HoangXuanQuy-2021604440-bai3sll\obj\Debug\net6.0-windows\HoangXuanQuy-2021604440-bai3sll.csproj.CoreCompileInputs.cache
+E:\project\HoangXuanQuy-2021604440-bai3sll\HoangXuanQuy-2021604440-bai3sll\obj\Debug\net6.0-windows\HoangXuanQuy-2021604440-bai3sll.dll
+E:\project\HoangXuanQuy-2021604440-bai3sll\HoangXuanQuy-2021604440-bai3sll\obj\Debug\net6.0-windows\refint\HoangXuanQuy-2021604440-bai3sll.dll
+E:\project\HoangXuanQuy-2021604440-bai3sll\HoangXuanQuy-2021604440-bai3sll\obj\Debug\net6.0-windows\HoangXuanQuy-2021604440-bai3sll.pdb
+E:\project\HoangXuanQuy-2021604440-bai3sll\HoangXuanQuy-2021604440-bai3sll\obj\Debug\net6.0-windows\HoangXuanQuy-2021604440-bai3sll.genruntimeconfig.cache
+E:\project\HoangXuanQuy-2021604440-bai3sll\HoangXuanQuy-2021604440-bai3sll\obj\Debug\net6.0-windows\ref\HoangXuanQuy-2021604440-bai3sll.dll

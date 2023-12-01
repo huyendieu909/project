@@ -1,0 +1,35 @@
+﻿<Window x:Class="Bai91.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bai91"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <!--R1-->
+        <Label Grid.Row="0" Grid.Column="0">Danh sách</Label>
+        <Label Grid.Row="0" Grid.Column="2">Sách đã chọn</Label>
+        <!--R2-->
+        <ListBox Grid.Row="1" Grid.Column="0" Margin="10" x:Name="lstSach">
+        </ListBox>
+        <StackPanel Grid.Row="1" Grid.Column="1" Margin="10" VerticalAlignment="Center">
+            <Button Name="btnThem" Style="{StaticResource buttonStyle}" Content=">" Click="btnThem_Click"/>
+            <Button Name="btnThemHet" Style="{StaticResource buttonStyle}" Content=">>" Click="btnThemHet_Click"/>
+            <Button Name="btnBo" Style="{StaticResource buttonStyle}" Content="&lt;" Click="btnBo_Click"/>
+            <Button Name="btnBoHet" Style="{StaticResource buttonStyle}" Content="&lt;&lt;" Click="btnBoHet_Click"/>
+        </StackPanel>
+        <ListBox Name="lstChon" Grid.Row="1" Grid.Column="2" Margin="10"/>
+        <Button Grid.Row="2" Grid.Column="2" Content="Thoát" Name="btnThoat" Style="{StaticResource buttonStyle}" Click="btnThoat_Click"/>
+    </Grid>
+</Window>

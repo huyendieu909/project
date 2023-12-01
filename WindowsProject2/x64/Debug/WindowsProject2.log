@@ -1,0 +1,5 @@
+﻿  WindowsProject2.cpp
+E:\project\WindowsProject2\WindowsProject2.cpp(19,21): error C2440: '=': cannot convert from 'char [260]' to 'LPWSTR'
+E:\project\WindowsProject2\WindowsProject2.cpp(19,21): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+E:\project\WindowsProject2\WindowsProject2.cpp(24,23): error C2440: '=': cannot convert from 'const char [20]' to 'LPCWSTR'
+E:\project\WindowsProject2\WindowsProject2.cpp(24,23): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast

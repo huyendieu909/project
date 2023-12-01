@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<congty>
+  <nhanvien manv="nv01">
+    <hoten>Nguyễn Thị Anh</hoten>
+    <tuoi>30</tuoi>
+    <luong>1001</luong>
+    <diachi>
+      <xa>Minh Khai</xa>
+      <huyen>Bắc Từ Liêm</huyen>
+      <tinh>Hà Nội</tinh>
+    </diachi>
+    <dienthoai>09837438343</dienthoai>
+  </nhanvien>
+  <nhanvien manv="nv04">
+    <hoten>kjkj jjkljkljk</hoten>
+    <tuoi>9</tuoi>
+    <luong>90000</luong>
+    <diachi>
+      <xa>ko</xa>
+      <huyen>ok</huyen>
+      <tinh>hhh</tinh>
+    </diachi>
+    <dienthoai>8888</dienthoai>
+  </nhanvien>
+</congty>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HoangXuanQuy_2021604440_proj91/1.0.0": {
+        "runtime": {
+          "HoangXuanQuy_2021604440_proj91.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HoangXuanQuy_2021604440_proj91/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

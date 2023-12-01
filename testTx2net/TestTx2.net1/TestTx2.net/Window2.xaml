@@ -1,0 +1,21 @@
+﻿<Window x:Class="TestTx2.net.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestTx2.net"
+        mc:Ignorable="d"
+        Title="Window2" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="dtgNhanVien2" AutoGenerateColumns="False" SelectionChanged="dtgNhanVien2_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã nhân viên" Binding="{Binding MaNV}" HeaderStyle="{StaticResource headerDtgStyle}"/>
+                <DataGridTextColumn Header="Họ tên" Binding="{Binding HoTen}" HeaderStyle="{StaticResource headerDtgStyle}"/>
+                <DataGridTextColumn Header="Giới tính" Binding="{Binding GioiTinh}" HeaderStyle="{StaticResource headerDtgStyle}"/>
+                <DataGridTextColumn Header="Phòng ban" Binding="{Binding PhongBan}" HeaderStyle="{StaticResource headerDtgStyle}"/>
+                <DataGridTextColumn Header="Ngày sinh" Binding="{Binding NgaySinh, StringFormat=dd-MMM-yyyy}" HeaderStyle="{StaticResource headerDtgStyle}"/>
+                <DataGridTextColumn Header="Tuổi" Binding="{Binding Tuoi}" HeaderStyle="{StaticResource headerTuoiStyle}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

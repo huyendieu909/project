@@ -1,0 +1,16 @@
+E:\project\HoangXuanQuy_2021604440_20231IT6034006\Bai1\bin\Debug\net6.0-windows\Bai1.exe
+E:\project\HoangXuanQuy_2021604440_20231IT6034006\Bai1\bin\Debug\net6.0-windows\Bai1.deps.json
+E:\project\HoangXuanQuy_2021604440_20231IT6034006\Bai1\bin\Debug\net6.0-windows\Bai1.runtimeconfig.json
+E:\project\HoangXuanQuy_2021604440_20231IT6034006\Bai1\bin\Debug\net6.0-windows\Bai1.dll
+E:\project\HoangXuanQuy_2021604440_20231IT6034006\Bai1\bin\Debug\net6.0-windows\Bai1.pdb
+E:\project\HoangXuanQuy_2021604440_20231IT6034006\Bai1\obj\Debug\net6.0-windows\Bai1.Form1.resources
+E:\project\HoangXuanQuy_2021604440_20231IT6034006\Bai1\obj\Debug\net6.0-windows\Bai1.csproj.GenerateResource.cache
+E:\project\HoangXuanQuy_2021604440_20231IT6034006\Bai1\obj\Debug\net6.0-windows\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\HoangXuanQuy_2021604440_20231IT6034006\Bai1\obj\Debug\net6.0-windows\Bai1.AssemblyInfoInputs.cache
+E:\project\HoangXuanQuy_2021604440_20231IT6034006\Bai1\obj\Debug\net6.0-windows\Bai1.AssemblyInfo.cs
+E:\project\HoangXuanQuy_2021604440_20231IT6034006\Bai1\obj\Debug\net6.0-windows\Bai1.csproj.CoreCompileInputs.cache
+E:\project\HoangXuanQuy_2021604440_20231IT6034006\Bai1\obj\Debug\net6.0-windows\Bai1.dll
+E:\project\HoangXuanQuy_2021604440_20231IT6034006\Bai1\obj\Debug\net6.0-windows\refint\Bai1.dll
+E:\project\HoangXuanQuy_2021604440_20231IT6034006\Bai1\obj\Debug\net6.0-windows\Bai1.pdb
+E:\project\HoangXuanQuy_2021604440_20231IT6034006\Bai1\obj\Debug\net6.0-windows\Bai1.genruntimeconfig.cache
+E:\project\HoangXuanQuy_2021604440_20231IT6034006\Bai1\obj\Debug\net6.0-windows\ref\Bai1.dll

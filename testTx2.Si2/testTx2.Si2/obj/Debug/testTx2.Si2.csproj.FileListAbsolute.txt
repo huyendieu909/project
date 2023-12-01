@@ -1,0 +1,10 @@
+E:\project\testTx2.Si2\testTx2.Si2\bin\Debug\testTx2.Si2.exe.config
+E:\project\testTx2.Si2\testTx2.Si2\bin\Debug\testTx2.Si2.exe
+E:\project\testTx2.Si2\testTx2.Si2\bin\Debug\testTx2.Si2.pdb
+E:\project\testTx2.Si2\testTx2.Si2\obj\Debug\testTx2.Si2.csproj.AssemblyReference.cache
+E:\project\testTx2.Si2\testTx2.Si2\obj\Debug\testTx2.Si2.Form1.resources
+E:\project\testTx2.Si2\testTx2.Si2\obj\Debug\testTx2.Si2.Properties.Resources.resources
+E:\project\testTx2.Si2\testTx2.Si2\obj\Debug\testTx2.Si2.csproj.GenerateResource.cache
+E:\project\testTx2.Si2\testTx2.Si2\obj\Debug\testTx2.Si2.csproj.CoreCompileInputs.cache
+E:\project\testTx2.Si2\testTx2.Si2\obj\Debug\testTx2.Si2.exe
+E:\project\testTx2.Si2\testTx2.Si2\obj\Debug\testTx2.Si2.pdb

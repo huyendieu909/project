@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QLLuong" Class="QLLuongDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Table Name="dbo.NhanVien" Member="NhanViens">
+    <Type Name="NhanVien">
+      <Column Name="Ma" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="HoTen" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="NgaySinh" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="GioiTinh" Type="System.String" DbType="NVarChar(5)" CanBeNull="true" />
+      <Column Name="HSLuong" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="MaDonVi" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="DonVi_NhanVien" Member="DonVi" ThisKey="MaDonVi" OtherKey="MaDonVi" Type="DonVi" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DonVi" Member="DonVis">
+    <Type Name="DonVi">
+      <Column Name="MaDonVi" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenDonVi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="DonVi_NhanVien" Member="NhanViens" ThisKey="MaDonVi" OtherKey="MaDonVi" Type="NhanVien" />
+    </Type>
+  </Table>
+</Database>
